@@ -1,0 +1,46 @@
+img {
+    width: 200px;
+    height: auto;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#intro {
+    width: 100vw;
+    height: 25vh;
+    background-color: tomato;
+    position: relative;
+}
+
+#about {
+    width: 100vw;
+    height: 25vh;
+    background-color: papayawhip;
+    position: relative;
+}
+
+#funfact {
+    width: 100vw;
+    height: 25vh;
+    background-color: yellow;
+    position: relative;
+}
+
+#contact {
+    width: 100vw;
+    height: 25vh;
+    background-color: peru;
+    position: relative;
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    left: 50%;
+    display: inline;
+    text-align: justify ;
+}
+
